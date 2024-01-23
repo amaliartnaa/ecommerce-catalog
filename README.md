@@ -1,5 +1,4 @@
 # ecommerce-catalog
-<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -40,6 +39,3 @@ npm run test:unit
 ```sh
 npm run lint
 ```
-=======
-Slicing UI with Vue
->>>>>>> d8f50e3182a92192d7ed6ef53c6e803e4ab7979a
