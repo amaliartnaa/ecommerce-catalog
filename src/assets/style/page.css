@@ -100,7 +100,7 @@
 }
 
 .product-title {
-    color: var(--darkBlue);
+    color: var(--navy);
     font-size: 28px;
 }
 
@@ -115,7 +115,7 @@
     display: flex;
 }
 
-.product-rating-num {
+.product-rating-rate {
     margin-right: 5px;
 }
 
@@ -132,7 +132,7 @@
 .circle {
     padding: 10px 10px;
     border-radius: 50%;
-    background-color: var(--darkBlue);
+    background-color: var(--navy);
 }
 
 hr {
@@ -140,7 +140,7 @@ hr {
 }
 
 .product-price {
-    color: var(--darkBlue);
+    color: var(--navy);
 }
 
 .btn-container {
